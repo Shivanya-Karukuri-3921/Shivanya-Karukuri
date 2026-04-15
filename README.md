@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivanya Karukuri</h1>
-<h3 align="center">📊 Data Analyst Fresher | SQL | Python | Power BI | ML</h3>
+<h3 align="center">📊 Data Analyst Fresher | SQL | Python | Power BI | Machine Learning</h3>
 
 <p align="center">
 💡 Turning data into actionable insights | 📈 Passionate about analytics & problem-solving
@@ -9,9 +9,9 @@
 
 ## 👩‍💻 About Me  
 
-- 🎓 Aspiring **Data Analyst**  
+- 🎓 Aspiring Data Analyst  
 - 🔍 Skilled in Data Analysis, Visualization & Machine Learning  
-- 📊 Strong interest in solving real-world business problems using data  
+- 📊 Passionate about solving real-world problems using data  
 - 🚀 Actively seeking opportunities in data-driven companies  
 
 ---
@@ -46,47 +46,56 @@
 
 ## 📂 Projects  
 
-### 🌦️ Weather Data Analysis Dashboard (Power BI)  
+### 📱 Google Play Store App Analysis Dashboard  
 📅 Mar 2026  
 
-- Integrated **OpenWeatherMap API** to collect real-time data for 10+ cities  
-- Performed trend analysis on temperature, humidity & precipitation  
-- Automated daily data ingestion using Python scripts  
-- Eliminated manual data entry and improved efficiency  
+- Cleaned and performed **EDA on 10,000+ apps** using Python (Pandas)  
+- Handled missing values, outliers & inconsistent data types  
+- Built interactive **Power BI dashboard** with drill-through filters  
+- Tracked ratings, installs, and reviews  
+- Identified **top 5 categories contributing 60%+ installs**  
+- Generated KPI reports for stakeholder insights  
 
-📌 **Skills:** Excel, Power BI, Python, Data Analysis  
+📌 Skills: Excel, Power BI, Python, Data Analysis  
 
 ---
 
 ### ⚡ Weather-Based Electricity Disconnection Prediction System  
 📅 May 2025 – Jul 2025  
 
-- Built a real-time environmental monitoring system (rain, wind, humidity)  
-- Designed **threshold-based prediction model** for power disconnection risk  
-- Integrated **Twilio API** to send SMS & voice alerts automatically  
-- Improved public preparedness during extreme weather conditions  
+🔗 https://colab.research.google.com/drive/1zgTY3oKzgibHOa4xgaz22-1T57CQRAxH  
 
-📌 **Skills:** Python, Machine Learning, Scikit-learn, Twilio, Predictive Modeling  
+- Built real-time monitoring system using weather data  
+- Designed threshold-based prediction model  
+- Integrated Twilio API for SMS & voice alerts  
+- Improved preparedness during adverse weather  
+
+📌 Skills: Python, Machine Learning, Scikit-learn, Twilio, Predictive Modeling  
 
 ---
 
 ### 🛒 E-commerce Sales Analysis  
 
-- Analyzed **50,000+ transaction records** to identify trends & patterns  
-- Identified top-performing products, seasonal demand & regional insights  
+- Analyzed **50,000+ transaction records**  
+- Identified product trends & regional patterns  
 - Built Power BI dashboard with **6 KPI visuals**  
-- Reduced manual reporting effort by **30%**  
-- Proposed insights leading to **12% revenue improvement (simulated)**  
+- Reduced manual reporting by **30%**  
+- Suggested insights for **12% revenue improvement**  
 
-📌 **Skills:** SQL, Power BI, Python, Data Analysis  
+📌 Skills: SQL, Power BI, Python, Data Analysis  
 
 ---
 
 ## 📜 Certifications  
 
-- 🏅 Data Analytics Certification – *(Add link)*  
-- 🏅 SQL Certification – *(Add link)*  
-- 🏅 Python for Data Science – *(Add link)*  
+- 🏅 SQL At Work – CodeChef  
+  🔗 https://www.codechef.com/certificates/preview/d33928a  
+
+- 🏅 Advanced SQL – CodeChef  
+  🔗 https://www.codechef.com/certificates/preview/5c9189d  
+
+- 🏅 SQL Basics – CodeChef  
+  🔗 https://www.codechef.com/certificates/preview/910ea44  
 
 ---
 
@@ -112,27 +121,22 @@
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://www.topcoder.com/members/500007" target="blank">
-<img src="https://img.shields.io/badge/Topcoder-green?style=for-the-badge"/>
-</a>
-
 </p>
 
 ---
 
 ## 🎯 Career Objective  
 
-To secure a Data Analyst role where I can apply my skills in **SQL, Python, Power BI, Machine Learning, and Statistics** to solve real-world problems and contribute to business growth.
+To secure a Data Analyst role where I can apply my skills in SQL, Python, Power BI, Machine Learning, and Statistics to contribute to data-driven decision-making.
 
 ---
 
-## ⭐ Achievements & Goals  
+## ⭐ Goals  
 
-- ✅ Built real-world data analytics projects  
-- 📊 Strong foundation in data analysis & visualization  
-- 🎯 Goal: Get placed in top tech companies  
+- 📊 Build impactful data projects  
+- 🎯 Get placed in top tech companies  
 - 📈 Continuous learning in Data Analytics  
 
 ---
 
-⭐ *“Without data, you're just another person with an opinion.”*
+⭐ “Without data, you're just another person with an opinion.”
