@@ -18,29 +18,64 @@
 
 ## 🧠 Skills  
 
-<p align="left">
-
-<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Statistics-4CAF50?style=for-the-badge"/>
-
-</p>
+### 💻 Programming  
+- Python  
+- SQL  
 
 ---
 
-## 🛠️ Tools & Technologies  
+### 📚 Libraries  
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+- Scikit-learn  
 
-<p align="left">
+---
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="40" height="40"/>
+### 🤖 Machine Learning  
+- Linear Regression  
+- Multiple Linear Regression  
+- Logistic Regression  
+- Decision Trees  
+- Random Forest  
+- Support Vector Machines (SVM)  
+- K-Nearest Neighbors (KNN)  
+- Naive Bayes  
+- Gradient Boosting (XGBoost – basics)  
+- Clustering: K-Means  
+- Dimensionality Reduction  
 
-</p>
+---
+
+### 📊 Data Analysis  
+- Exploratory Data Analysis (EDA)  
+- Feature Engineering  
+- Data Cleaning  
+
+---
+
+### 🛠️ Tools  
+- Jupyter Notebook  
+- Spyder  
+- Streamlit  
+- Git  
+- GitHub  
+
+---
+
+### 🗄️ Database  
+- SQL  
+
+---
+
+### 📈 Statistics  
+- Descriptive Statistics (mean, median, variance, standard deviation)  
+- Probability & Distributions (normal, binomial, poisson)  
+- Inferential Statistics (hypothesis testing, confidence intervals)  
+- Statistical Tests (t-test, z-test, chi-square, ANOVA)  
+- Correlation & Regression Analysis  
+- A/B Testing & Experimental Design (basic)  
 
 ---
 
