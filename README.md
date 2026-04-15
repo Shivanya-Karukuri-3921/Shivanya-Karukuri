@@ -1,34 +1,22 @@
 <h1 align="center">Hi 👋, I'm Shivanya Karukuri</h1>
-<h3 align="center">📊 Aspiring Data Analyst | Turning Data into Insights</h3>
+<h3 align="center">📊 Data Analyst Fresher | SQL | Python | Power BI | ML</h3>
 
----
-
-- 🔭 I have worked on  
-  **Weather-Based Electricity Disconnection Prediction System**  
-  👉 https://colab.research.google.com/drive/1zgTY3oKzgibHOa4xgaz22-1T57CQRAxH  
-
-- 🌱 I’m currently learning **Advanced SQL, Data Visualization & Machine Learning**
-
-- 💬 Ask me about **Python, SQL, Data Analysis, Power BI**
-
-- 📫 Reach me at **shivanyakarukuri3921@gmail.com**
-
----
-
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/shivanya-karukuri/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-
-<a href="https://www.topcoder.com/members/500007" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" height="30" width="40" />
-</a>
+<p align="center">
+💡 Turning data into actionable insights | 📈 Passionate about analytics & problem-solving
 </p>
 
 ---
 
-<h3 align="left">🧠 Skills:</h3>
+## 👩‍💻 About Me  
+
+- 🎓 Aspiring **Data Analyst**  
+- 🔍 Skilled in Data Analysis, Visualization & Machine Learning  
+- 📊 Strong interest in solving real-world business problems using data  
+- 🚀 Actively seeking opportunities in data-driven companies  
+
+---
+
+## 🧠 Skills  
 
 <p align="left">
 
@@ -42,58 +30,109 @@
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+## 🛠️ Tools & Technologies  
+
 <p align="left">
 
-<a href="https://www.python.org" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/>
-</a>
-
-<a href="https://powerbi.microsoft.com/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.tableau.com/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="40" height="40"/>
-</a>
-
-<a href="https://jupyter.org/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="40" height="40"/>
-</a>
 
 </p>
 
 ---
 
-<h3 align="left">📌 Featured Project:</h3>
+## 📂 Projects  
 
-### ⚡ Weather-Based Electricity Disconnection Prediction
-- Built a predictive model using weather data  
-- Performed data cleaning and exploratory data analysis  
-- Applied machine learning techniques  
-- Tools: **Python, Pandas, Machine Learning**
+### 🌦️ Weather Data Analysis Dashboard (Power BI)  
+📅 Mar 2026  
+
+- Integrated **OpenWeatherMap API** to collect real-time data for 10+ cities  
+- Performed trend analysis on temperature, humidity & precipitation  
+- Automated daily data ingestion using Python scripts  
+- Eliminated manual data entry and improved efficiency  
+
+📌 **Skills:** Excel, Power BI, Python, Data Analysis  
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
+### ⚡ Weather-Based Electricity Disconnection Prediction System  
+📅 May 2025 – Jul 2025  
+
+- Built a real-time environmental monitoring system (rain, wind, humidity)  
+- Designed **threshold-based prediction model** for power disconnection risk  
+- Integrated **Twilio API** to send SMS & voice alerts automatically  
+- Improved public preparedness during extreme weather conditions  
+
+📌 **Skills:** Python, Machine Learning, Scikit-learn, Twilio, Predictive Modeling  
+
+---
+
+### 🛒 E-commerce Sales Analysis  
+
+- Analyzed **50,000+ transaction records** to identify trends & patterns  
+- Identified top-performing products, seasonal demand & regional insights  
+- Built Power BI dashboard with **6 KPI visuals**  
+- Reduced manual reporting effort by **30%**  
+- Proposed insights leading to **12% revenue improvement (simulated)**  
+
+📌 **Skills:** SQL, Power BI, Python, Data Analysis  
+
+---
+
+## 📜 Certifications  
+
+- 🏅 Data Analytics Certification – *(Add link)*  
+- 🏅 SQL Certification – *(Add link)*  
+- 🏅 Python for Data Science – *(Add link)*  
+
+---
+
+## 📊 GitHub Stats  
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-<h3 align="left">🎯 Career Goal:</h3>
+## 🌐 Connect With Me  
 
-<p>
-To secure a Data Analyst role where I can leverage my skills in SQL, Python, Power BI, Machine Learning, and Statistics to drive data-driven decisions.
+<p align="left">
+
+<a href="https://www.linkedin.com/in/shivanya-karukuri/" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:shivanyakarukuri3921@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://www.topcoder.com/members/500007" target="blank">
+<img src="https://img.shields.io/badge/Topcoder-green?style=for-the-badge"/>
+</a>
+
 </p>
 
 ---
 
-⭐ *“Data is the new oil, but insights are the real fuel.”*
+## 🎯 Career Objective  
+
+To secure a Data Analyst role where I can apply my skills in **SQL, Python, Power BI, Machine Learning, and Statistics** to solve real-world problems and contribute to business growth.
+
+---
+
+## ⭐ Achievements & Goals  
+
+- ✅ Built real-world data analytics projects  
+- 📊 Strong foundation in data analysis & visualization  
+- 🎯 Goal: Get placed in top tech companies  
+- 📈 Continuous learning in Data Analytics  
+
+---
+
+⭐ *“Without data, you're just another person with an opinion.”*
